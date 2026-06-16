@@ -167,8 +167,8 @@ CREATE TABLE Assignments (
 | Name | Roll Number | Role |
 |---|---|---|
 | Zohaib Hassan | F23BDOCS1M01156 | Group Leader |
-| Nosheeb Bibi | F23BDOCS1M01200 | Developer |
-| Qamar Shehzadi | F23BDOCS1M01193 | Developer |
+| Nosheeb Bibi | F23BDOCS1M01200 | Group Member |
+| Qamar Shehzadi | F23BDOCS1M01193 | Group Member |
 
 ---
 
